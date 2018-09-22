@@ -1,4 +1,4 @@
-# RandomNumberGenerator
+# Random Number Generator
 Generates a RandomNumbers.dat file with random numbers (set up to generate 10,000 numbers).
 
 <b>Seed:</b>
